@@ -1,3 +1,6 @@
+#skip all files from target folder
+target
+
 # Compiled class file
 *.class
 
